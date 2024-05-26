@@ -1,0 +1,5 @@
+load_dotenv
+ibm_watson_machine_learning
+ibm-cloud-sdk-core
+streamlit
+python-dotenv
